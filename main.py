@@ -14,7 +14,7 @@ if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
 
 # Configure the Google Gemini API
-genai.configure(api_key="AIzaSyAVWtjqCrccKQpoh70A9Hg0PnZWjSeCFK4")
+genai.configure(api_key="AIzaSyAfyqOfkVsNBSCmUruRGAJeAv5eJJSS9BU")
 
 
 def resume_format(file_path):
